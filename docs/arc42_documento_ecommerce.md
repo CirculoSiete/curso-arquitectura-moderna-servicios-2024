@@ -30,7 +30,9 @@ La plataforma permite a usuarios realizar compras en línea, gestionar pedidos, 
 3. **ERP**: Para sincronización de inventario y reportes financieros.
 
 ### Diagrama de Contexto
-_(Diagrama no incluido en texto. Puede generarse con herramientas como PlantUML o Draw.io)._
+
+![Alt text](c4.png)
+
 
 ---
 ## 4. Estructura Arquitectónica
