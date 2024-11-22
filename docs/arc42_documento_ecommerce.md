@@ -126,7 +126,8 @@ Fuente del diagrama
 22. **Elecciøn plataforma de ejecucion**
 23. **Eleciøøn de flujo de uso de Git (git flow)**
 24. **Defiunicion de estandares de codificacion**
-25. **Eleccion de ehrramienta para facilitar el uso de contenedores en pruebas de integracion**
+25. **Definicion de metricas de analisus estatico de codigo (cobertura)**
+26. **Eleccion de ehrramienta para facilitar el uso de contenedores en pruebas de integracion**
 
 
 ---
