@@ -118,6 +118,15 @@ Fuente del diagrama
 14. **Elecciøn de herramienta para migraciones de base**
 15. **Eleccion del mecanismo de seguridad en el trafico North-South**
 16. **Eleccion del mecanismo de seguridad en el trafico East-West**
+17. **Elecciøn herramienta definiciøn de contratos de trafico north-South**
+18. **Elecciøn herramienta definiciøn de contratos de trafico east-west**
+19. **lecciøn del framework de testing**
+20. **Eleciøn de herramienta de mock de servicios externos**
+21. **Eleccion de herramienta de CI/CD**
+22. **Elecciøn plataforma de ejecucion**
+23. **Eleciøøn de flujo de uso de Git (git flow)**
+24. **Defiunicion de estandares de codificacion**
+25. **Eleccion de ehrramienta para facilitar el uso de contenedores en pruebas de integracion**
 
 
 ---
