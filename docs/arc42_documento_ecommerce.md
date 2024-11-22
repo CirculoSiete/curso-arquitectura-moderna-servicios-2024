@@ -115,6 +115,9 @@ Fuente del diagrama
 11. **Elección de Jib para construir contenedores de aplicaciones Java**
 12. **Elección de jMolecules para construir el modelo de dominio**
 13. **Base de Datos Centralizada por Contexto**: Cada bounded context tiene su propia base de datos para asegurar autonomía.
+14. **Elecciøn de herramienta para migraciones de base**
+15. **Eleccion del mecanismo de seguridad en el trafico North-South**
+16. **Eleccion del mecanismo de seguridad en el trafico East-West**
 
 
 ---
