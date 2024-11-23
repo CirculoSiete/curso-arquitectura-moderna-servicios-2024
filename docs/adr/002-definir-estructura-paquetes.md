@@ -18,6 +18,7 @@ com.c7.project
 │
 ├── domain            // Núcleo de la lógica de negocio
 │   ├── model         // Entidades y objetos de dominio
+│   ├── repository    // Interfaces para acceso a datos (puertos de salida)
 │   └── service       // Lógica de dominio
 │
 ├── application       // Casos de uso (orquestan el dominio)
